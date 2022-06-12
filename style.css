@@ -1,0 +1,42 @@
+body {
+    background-color: turquoise;
+    color: white;
+    text-align: center;
+}
+
+.mainContainer {
+    text-align: center;
+}
+
+.heading {
+    font-size: 40px;
+}
+
+.nameContainer {
+    font-size: 30px;
+}
+
+label {
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.button {
+    font-size: 30px;
+    font-weight: 500;
+    background-color: teal;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 50px;
+    margin: 10px 0px;
+}
+
+p,
+span {
+    font-size: 25;
+}
+
+#cameraContainer {
+    text-align: center;
+    margin-left: 40%;
+}
